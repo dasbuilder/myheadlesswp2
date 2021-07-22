@@ -28,7 +28,7 @@ export default function Single(): JSX.Element {
           ) }
         </div>
         <CTA
-          title="Start your headless journey today"
+          title="Start your headless way today (this is the way!)"
           buttonText="Get Started"
           buttonURL="https://github.com/wpengine/headless-framework/"
           headingLevel="h2">
